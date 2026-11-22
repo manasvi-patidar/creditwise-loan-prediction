@@ -26,6 +26,10 @@ approval outcomes using historical applicant data.
 - Scikit-learn
 - Jupyter Notebook
 
+## Documentation
+
+- [Dataset Description](docs/DATASET.md)
+
 ## Author
 
 **Manasvi Patidar**
