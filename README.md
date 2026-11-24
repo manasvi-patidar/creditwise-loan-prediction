@@ -6,14 +6,14 @@ A Machine Learning-based classification project that predicts loan approval outc
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
-- [Problem Statement](#problem-statement)
-- [Dataset Description](#dataset-description)
-- [Machine Learning Algorithms](#machine-learning-algorithms)
-- [Model Evaluation](#model-evaluation)
-- [Tech Stack](#tech-stack)
-- [Project Structure](#project-structure)
-- [Author](#author)
+- [Overview](#-overview)
+- [Problem Statement](#-problem-statement)
+- [Dataset Description](#-dataset-description)
+- [Machine Learning Algorithms](#-machine-learning-algorithms)
+- [Model Evaluation](#-model-evaluation)
+- [Tech Stack](#️-tech-stack)
+- [Project Structure](#-project-structure)
+- [Author](#-author)
 
 ---
 
